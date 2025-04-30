@@ -346,3 +346,10 @@
     background-color: #262626;
     color: white;
   }
+  .footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #000000;
+    margin-top: 50px;
+    font-size: 14px;
+}
